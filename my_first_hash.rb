@@ -6,6 +6,12 @@ end
 
 
 def shipping_manifest
+  food = {
+      "whale bone corsets" => 5, 
+      "porcelain vases" => 2, 
+      "oil paintings" => 3
+       }
+  
  food["muskets"] = 2
  food["gun powder"] = 4
 
