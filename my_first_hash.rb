@@ -7,7 +7,7 @@ end
 
 def shipping_manifest
  food["muskets"] = 2
- food["gun powder"] => 4
+ food["gun powder"] = 4
 
 
 end
