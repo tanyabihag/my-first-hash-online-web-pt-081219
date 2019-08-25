@@ -6,7 +6,7 @@ end
 
 
 def shipping_manifest
- food = ["muskets" => 2]
+ food["muskets" => 2]
  food = ["gun powder" => 4]
 
 
