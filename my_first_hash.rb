@@ -11,11 +11,6 @@ def shipping_manifest
       "porcelain vases" => 2, 
       "oil paintings" => 3
        }
-  
- food["muskets"] = 2
- food["gun powder"] = 4
-
-
 end
 
 def retrieval
